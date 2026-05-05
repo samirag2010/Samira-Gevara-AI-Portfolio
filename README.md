@@ -51,17 +51,18 @@ Computer vision model that classifies soccer plays such as penalty kicks, corner
 
 ---
 
-### 🦷 Spartacus Dental AI Assistant
-🔗 https://github.com/samirag2010/spartacus-dental-ai
+🦷 Spartacus Dental AI Assistant  
+🔗 https://github.com/samirag2010/spartacus-dental-ai  
 
-AI chatbot concept designed to help dental clinics quickly determine insurance coverage and treatment approvals.
+AI-powered dental insurance assistant that helps clinics quickly estimate coverage, approval likelihood, and patient costs using structured logic and AI-style reasoning.
 
-- Focus: AI + Business Automation
-- Features:
-  - Insurance lookup simulation
-  - Patient cost estimation logic
-  - AI-assisted decision support
-- Built using: rebuilding - initial build was with Google Vertex AI SDK
+- **Focus:** AI + Healthcare + Business Automation  
+- **Features:**
+  - Insurance coverage estimation  
+  - Patient cost analysis  
+  - Approval likelihood prediction  
+  - AI-assisted decision support  
+- **Built using:** Python, Streamlit, rule-based logic (replacing initial Vertex AI prototype)
 
 ---
 
