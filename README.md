@@ -65,7 +65,7 @@ https://github.com/samirag2010/Endometriosis-AI
 
 ## Courses & Learning Journey
 
-### Computer Vision (ITAI 1378)
+### Computer Vision AI (ITAI 1378)
 Focused on image classification, dataset creation, and model deployment using PyTorch and Streamlit.
 
 ### Natural Language Processing (ITAI 2373)
