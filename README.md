@@ -57,6 +57,10 @@ Healthcare-focused NLP project exploring AI-assisted symptom analysis and explai
 🔗 Repository:
 https://github.com/samirag2010/Endometriosis-AI
 
+
+![AI Portfolio Showcase](assets/portfolio_showcase1.png)
+![AI Portfolio Showcase](assets/portfolio_showcase2.png)
+
 ---
 
 ## Courses & Learning Journey
