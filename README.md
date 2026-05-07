@@ -6,6 +6,9 @@ I am an Applied AI & Robotics student at Houston City College with a focus on bu
 
 I am especially interested in AI applications that improve decision-making, accessibility, and efficiency in real-world environments.
 
+![AI Portfolio Showcase](assets/portfolio_showcase1.png)
+![AI Portfolio Showcase](assets/portfolio_showcase2.png)
+
 ---
 
 ## 🚀 Featured Projects
@@ -18,7 +21,7 @@ I am especially interested in AI applications that improve decision-making, acce
 
 ---
 
-## Technical Skills
+## Technical Skills & Tools
 
 - Python
 - PyTorch
@@ -41,6 +44,7 @@ CNN-based computer vision system that classifies soccer plays using PyTorch and 
 🔗 Repository:
 https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://goatvision-soccer.streamlit.app/)
 ---
 
 ### 🦷 Spartacus Dental AI Assistant
@@ -49,6 +53,7 @@ AI-assisted dental insurance decision support system designed to estimate covera
 🔗 Repository:
 https://github.com/samirag2010/spartacus-dental-ai
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spartacus-dental-ai.streamlit.app/)
 ---
 
 ### 🧠 Endometriosis AI Detection Assistant
@@ -57,15 +62,13 @@ Healthcare-focused NLP project exploring AI-assisted symptom analysis and explai
 🔗 Repository:
 https://github.com/samirag2010/Endometriosis-AI
 
-
-![AI Portfolio Showcase](assets/portfolio_showcase1.png)
-![AI Portfolio Showcase](assets/portfolio_showcase2.png)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://endometriosis-ai-eqwtqeuqnkzgrzh49pur85.streamlit.app/)
 
 ---
 
 ## Courses & Learning Journey
 
-### Computer Vision (ITAI 1378)
+### Computer Vision AI (ITAI 1378)
 Focused on image classification, dataset creation, and model deployment using PyTorch and Streamlit.
 
 ### Natural Language Processing (ITAI 2373)
