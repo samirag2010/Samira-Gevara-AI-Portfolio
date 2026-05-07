@@ -8,62 +8,54 @@ I am especially interested in AI applications that improve decision-making, acce
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Focus Area |
+|---|---|
+| ⚽ G.O.A.T Vision | Computer Vision |
+| 🦷 Spartacus | Healthcare AI + Workflow Automation |
+| 🧠 Endometriosis AI | NLP + Healthcare AI |
+
+---
+
 ## Technical Skills
 
-- Programming: Python
-- AI/ML: TensorFlow, PyTorch, Scikit-learn
-- Computer Vision: Image classification, CNNs
-- NLP: Text processing, prompt engineering
-- Tools: Streamlit, Google Colab, GitHub
-- Other: Data preprocessing, model evaluation, visualization
+- Python
+- PyTorch
+- TensorFlow
+- Streamlit
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- GitHub
+- Google Colab
 
 ---
 
 ## Featured Projects
 
-### 🧠 Endometriosis AI Detection Assistant
-🔗 https://github.com/samirag2010/Endometriosis-AI
-
-AI-powered assistant designed to help identify potential endometriosis symptoms using natural language input.
-
-- Focus: Healthcare AI + NLP
-- Features:
-  - Symptom-based text input analysis
-  - Privacy-conscious design
-  - Explainable outputs
-- Tech: Python, TensorFlow, Streamlit
-
----
-
 ### ⚽ G.O.A.T Vision – Soccer Play Classifier
-🔗 https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier
+CNN-based computer vision system that classifies soccer plays using PyTorch and Streamlit.
 
-Computer vision model that classifies soccer plays such as penalty kicks, corner kicks, and goal attempts.
-
-- Focus: Computer Vision
-- Model: CNN (PyTorch)
-- Deployment: Streamlit app
-- Dataset: Custom curated image dataset
-- Features:
-  - Image classification
-  - Real-time prediction interface
-  - Video testing capability
+🔗 Repository:
+https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier
 
 ---
 
-### 🦷 Spartacus Dental AI Assistant  
-🔗 https://github.com/samirag2010/spartacus-dental-ai  
+### 🦷 Spartacus Dental AI Assistant
+AI-assisted dental insurance decision support system designed to estimate coverage and streamline workflow automation.
 
-AI-powered dental insurance assistant that helps clinics quickly estimate coverage, approval likelihood, and patient costs using structured logic and AI-style reasoning.
+🔗 Repository:
+https://github.com/samirag2010/spartacus-dental-ai
 
-- **Focus:** AI + Healthcare + Business Automation  
-- **Features:**
-  - Insurance coverage estimation  
-  - Patient cost analysis  
-  - Approval likelihood prediction  
-  - AI-assisted decision support  
-- **Built using:** Python, Streamlit, rule-based logic (replacing initial Vertex AI prototype)
-- **Goal:** Reduce manual insurance verification time and improve cost transparency for patients
+---
+
+### 🧠 Endometriosis AI Detection Assistant
+Healthcare-focused NLP project exploring AI-assisted symptom analysis and explainable healthcare decision support.
+
+🔗 Repository:
+https://github.com/samirag2010/Endometriosis-AI
 
 ---
 
@@ -80,11 +72,15 @@ Explored secure AI deployment, prompt injection risks, and cloud-based AI system
 
 ---
 
+## Current Focus
+
+I am currently focused on expanding my experience in applied AI, healthcare AI systems, computer vision, NLP, and AI workflow automation while continuing to build real-world portfolio projects.
+
 ## What I’m Building Next
 
-- Expanding G.O.A.T Vision to support video-based play detection
-- Enhancing Endometriosis AI with structured medical data
-- Developing full-stack AI applications with real-world deployment
+- Deploying interactive AI applications with real-world usability
+- Expanding healthcare AI and workflow automation systems
+- Advancing my skills in computer vision, NLP, and intelligent decision support systems
 
 ---
 
@@ -92,7 +88,7 @@ Explored secure AI deployment, prompt injection risks, and cloud-based AI system
 
 - Email: Samirad2012@hotmail.com
 - GitHub: https://github.com/samirag2010
-- LinkedIn: (add your LinkedIn)
+- LinkedIn: 
 
 ---
 
