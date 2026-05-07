@@ -44,7 +44,7 @@ CNN-based computer vision system that classifies soccer plays using PyTorch and 
 🔗 Repository:
 https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](YOUR_LINK)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://goatvision-soccer.streamlit.app/)
 ---
 
 ### 🦷 Spartacus Dental AI Assistant
@@ -53,7 +53,7 @@ AI-assisted dental insurance decision support system designed to estimate covera
 🔗 Repository:
 https://github.com/samirag2010/spartacus-dental-ai
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](YOUR_LINK)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spartacus-dental-ai.streamlit.app/)
 ---
 
 ### 🧠 Endometriosis AI Detection Assistant
