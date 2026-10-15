@@ -42,7 +42,7 @@ I am especially interested in AI applications that improve decision-making, acce
 CNN-based computer vision system that classifies soccer plays using PyTorch and Streamlit.
 
 🔗 Repository:
-https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier
+[https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier](https://github.com/samirag2010/GOATVision)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://goatvision-soccer.streamlit.app/)
 ---
