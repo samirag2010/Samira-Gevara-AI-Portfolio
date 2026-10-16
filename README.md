@@ -1,104 +1,152 @@
-# Samira-Gevara-AI-Portfolio
-Applied AI Portfolio - Houston City College | AI &amp; Robotics
+# Samira Gevara | Applied AI Portfolio
+
+Python • Computer Vision • AI Applications • Practical Problem Solving
 
 ## About Me
-I am an Applied AI & Robotics student at Houston City College with a focus on building practical, real-world AI solutions. My work combines machine learning, computer vision, and natural language processing to solve problems in healthcare, sports analytics, and business automation.
 
-I am especially interested in AI applications that improve decision-making, accessibility, and efficiency in real-world environments.
+I’m developing my skills in Python and applied AI by building projects that explore practical problems in food management, healthcare information, and sports analytics.
+
+My professional background includes team leadership, multi-location operations, and supporting users in educational environments. I bring that experience into technology through a customer-focused approach, clear communication, and a willingness to investigate problems and keep learning.
+
+This portfolio documents my work at different stages—from early rule-based prototypes to a trained image classifier and a collaborative AI capstone.
 
 ![AI Portfolio Showcase](assets/portfolio_showcase1.png)
 ![AI Portfolio Showcase](assets/portfolio_showcase2.png)
 
 ---
 
-## 🚀 Featured Projects
+## Projects at a Glance
 
-| Project | Focus Area |
-|---|---|
-| ⚽ G.O.A.T Vision | Computer Vision |
-| 🦷 Spartacus | Healthcare AI + Workflow Automation |
-| 🧠 Endometriosis AI | NLP + Healthcare AI |
+| Project | Focus | Current Stage |
+|---|---|---|
+| ⚽ GOATVision | Computer vision and transfer learning | Working image-classification prototype |
+| 🥫 SmartPantry AI | Recipe recommendations and AI assistant integration | Collaborative capstone in development |
+| 🦷 Spartacus | Dental insurance information and application logic | Working rule-based prototype |
+| 🧠 Endometriosis | Text input and symptom awareness | Early-stage keyword-based prototype |
 
 ---
 
 ## Technical Skills & Tools
 
-- Python
-- PyTorch
-- TensorFlow
-- Streamlit
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- GitHub
-- Google Colab
+My experience comes from hands-on projects and continued learning.
+
+- **Programming:** Python, SQL fundamentals
+- **Data:** Data cleaning and normalization, JSON, Python dictionaries
+- **Computer Vision:** PyTorch, torchvision, ResNet50, transfer learning
+- **Application Development:** Streamlit, API integration, rule-based logic
+- **Development Tools:** Git, GitHub, Google Colab, Jupyter Notebooks
+- **Development Practices:** Debugging, testing, technical documentation, AI-assisted development
+
+I’m continuing to build experience with LLM integration, natural language processing, and evaluating AI application outputs.
 
 ---
 
 ## Featured Projects
 
-### ⚽ G.O.A.T Vision – Soccer Play Classifier
-CNN-based computer vision system that classifies soccer plays using PyTorch and Streamlit.
+### ⚽ GOATVision — Soccer Play Classifier
 
-🔗 Repository:
-[https://github.com/samirag2010/ITAI-1378-Midterm-GOATVision-PlayClassifier](https://github.com/samirag2010/GOATVision)
+A computer vision application that classifies soccer images into five play categories using ResNet50 transfer learning, PyTorch, and Streamlit.
+
+**My work includes:**
+- Curating and cleaning a custom soccer-image dataset.
+- Developing and experimenting with the transfer-learning workflow.
+- Evaluating model predictions and confusion between similar categories.
+- Building an interface that displays predictions and class probabilities.
+
+**Current stage:** Working prototype. The project reports 82.14% validation accuracy on a small dataset; broader generalization remains a limitation. Experimental video support classifies one extracted frame.
+
+**Repository:** [GOATVision](https://github.com/samirag2010/GOATVision)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://goatvision-soccer.streamlit.app/)
+
 ---
 
-### 🦷 Spartacus Dental AI Assistant
-AI-assisted dental insurance decision support system designed to estimate coverage and streamline workflow automation.
+### 🥫 SmartPantry AI — Food Management Assistant
 
-🔗 Repository:
-https://github.com/samirag2010/spartacus-dental-ai
+A collaborative capstone designed to combine pantry inventory, expiration and storage information, recall checks, and recipe recommendations.
+
+**My contributions include:**
+- Developing Python ingredient matching and normalization.
+- Implementing weighted recipe ranking based on pantry coverage and expiration priority.
+- Developing Spoonacular API requests and examining recipe responses.
+- Comparing recipe APIs and LLM options, including usage costs.
+- Working on AI assistant integration and assisting with development and testing across project components.
+
+I am also taking responsibility for image recognition, which is planned and has not yet been implemented.
+
+**Current stage:** In development. The recipe ranking baseline is rule-based, while AI assistant integration and broader application testing are ongoing.
+
+This is a team project; the repository includes work contributed by multiple team members.
+
+**Repository:** [SmartPantry AI](https://github.com/SmartPantry-AI/smartpantry-ai)
+
+---
+
+### 🦷 Spartacus — Dental Insurance Assistant
+
+A Python and Streamlit prototype exploring a simpler way to present dental procedure information.
+
+**My work includes:**
+- Building the interactive interface.
+- Organizing predefined procedure information in Python dictionaries.
+- Separating lookup logic from the interface.
+- Normalizing inputs and handling unsupported procedure codes.
+- Displaying structured demonstration results and their limitations.
+
+**Current stage:** Working rule-based prototype. Coverage ranges and approval categories are predefined demonstration values. Provider names do not change the results, and the application does not verify policies, calculate actual patient costs, or use an LLM.
+
+**Repository:** [Spartacus](https://github.com/samirag2010/spartacus-dental-ai)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spartacus-dental-ai.streamlit.app/)
+
 ---
 
-### 🧠 Endometriosis AI Detection Assistant
-Healthcare-focused NLP project exploring AI-assisted symptom analysis and explainable healthcare decision support.
+### 🧠 Endometriosis — Symptom Awareness Prototype
 
-🔗 Repository:
-https://github.com/samirag2010/Endometriosis-AI
+An early-stage Streamlit application exploring how text-based symptom descriptions can be organized into explainable awareness information.
+
+**My work includes:**
+- Building a text-input interface.
+- Implementing weighted keyword matching.
+- Displaying matched symptom terms and explanations.
+- Including a medical disclaimer and guidance to consult a healthcare professional.
+
+**Current stage:** Early prototype. The current implementation uses predefined keywords and rules rather than a trained NLP model. Its displayed confidence percentage is simulated and is not a clinically validated probability.
+
+This project does not diagnose endometriosis. Future work includes improving text handling and evaluating more appropriate ways to communicate results.
+
+**Repository:** [Endometriosis](https://github.com/samirag2010/Endometriosis-AI)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://endometriosis-ai-eqwtqeuqnkzgrzh49pur85.streamlit.app/)
 
 ---
 
-## Courses & Learning Journey
+## Current Focus
 
-### Computer Vision AI (ITAI 1378)
-Focused on image classification, dataset creation, and model deployment using PyTorch and Streamlit.
-
-### Natural Language Processing (ITAI 2373)
-Worked on prompt engineering, AI assistants, and text-based model applications.
-
-### AI in Cybersecurity (ITAI 1372)
-Explored secure AI deployment, prompt injection risks, and cloud-based AI systems using Google Cloud.
+- Integrating and testing the SmartPantry AI assistant.
+- Improving project documentation and reproducibility.
+- Strengthening Python, debugging, and software development fundamentals.
+- Expanding my understanding of computer vision and language-based applications.
+- Clearly evaluating and communicating what each prototype can and cannot do.
 
 ---
 
-## Current Focus
+## Development Approach
 
-I am currently focused on expanding my experience in applied AI, healthcare AI systems, computer vision, NLP, and AI workflow automation while continuing to build real-world portfolio projects.
+I use projects to connect technical concepts with practical applications. My process includes investigating a problem, building a baseline, testing behavior, documenting limitations, and identifying the next improvement.
 
-## What I’m Building Next
-
-- Deploying interactive AI applications with real-world usability
-- Expanding healthcare AI and workflow automation systems
-- Advancing my skills in computer vision, NLP, and intelligent decision support systems
+I use AI-assisted development tools for guidance and debugging while working to understand, execute, and verify the resulting code. Project-specific disclosures and supporting documentation are included where available.
 
 ---
 
 ## Contact
 
-- Email: Samirad2012@hotmail.com
-- GitHub: https://github.com/samirag2010
-- LinkedIn: 
+- **Email:** samirad2012@hotmail.com
+- **GitHub:** https://github.com/samirag2010
+- **LinkedIn:** https://www.linkedin.com/in/samira-gevara
 
 ---
 
 ## Portfolio Goal
 
-This portfolio represents my journey in applied AI, focusing on building systems that solve real problems. I am actively seeking opportunities to grow in AI, machine learning, and cybersecurity.
+I’m seeking entry-level technology opportunities where I can contribute my professional experience, foundational technical skills, and curiosity while learning from an experienced team.
